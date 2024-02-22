@@ -1,4 +1,4 @@
-# tk.price
+# tkn.price
 CryptoTracker
 
 Description: This is a web application for tracking cryptocurrency prices. Users can view current prices of various cryptocurrencies, price change history, charts, etc. The project is written in JavaScript using the React.js framework for the frontend and Node.js for the backend.
