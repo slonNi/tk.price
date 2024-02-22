@@ -1,0 +1,14 @@
+crypto-tracker/
+|_ frontend/
+   |_ src/
+      |_ components/
+      |_ pages/
+      |_ App.js
+      |_ index.js
+|_ backend/
+   |_ src/
+      |_ server.js
+      |_ controllers/
+      |_ services/
+      |_ models/
+|_ README.md
